@@ -10,6 +10,6 @@ CloudPad is a Webapp that allows users to write there personal notes and access 
 
 Also Json Web token is used for securing the authentication process and Bycrypt.js is used for making passwords more secure and strong.
 
-For running the application :- 
+### Commands for running the application :- 
 1) npm i
 2) npm run both
